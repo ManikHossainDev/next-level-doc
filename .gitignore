@@ -16,14 +16,11 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # Environment files
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
 # IDE / Editor
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -41,3 +38,4 @@ Thumbs.db
 # Optional: if using testing or coverage
 coverage/
 .jest/
+config.bat
